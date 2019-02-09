@@ -1,0 +1,13 @@
+.title {
+    font-family: 'Amatic SC', cursive;
+    font-weight: 400;
+    font-size: 4rem;
+    letter-spacing: 4px;
+    text-align: center;
+    margin-top: 20%;
+}
+
+.sub-title {
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center;
+}
