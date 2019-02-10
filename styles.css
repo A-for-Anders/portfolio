@@ -4,10 +4,17 @@
     font-size: 4rem;
     letter-spacing: 4px;
     text-align: center;
-    margin-top: 20%;
+    margin-top: 30%;
 }
 
 .sub-title {
     font-family: 'Luckiest Guy', cursive;
     text-align: center;
+    color: black;
+}
+
+.sub-title a:hover {
+    color: white !important;
+    background-color: black;
+    cursor: pointer;
 }
